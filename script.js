@@ -1,5 +1,5 @@
 // javascript my familia. too bad i wont be using that  much here.
-
+//latest build sept 24 11:55
 
 // for the NYUAD Logo
 const nyuadLogo = document.querySelector("#header1 img");
